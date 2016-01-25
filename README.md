@@ -23,6 +23,7 @@ To run instructions on the ARDrone, you must connect to the drone's built-in wif
     node recursiveInputControl.js MovementCodes.txt
 The drone should activate and execute commands at this point.
 
-Special thanks to:
+Special thanks to
+-----------------
   -Hack AZ, for providing the hardware and people that made this happen
   -My team, Mona, Drew, and Rooz, for their help, feedback, and for chasing down all the runaway drones.
