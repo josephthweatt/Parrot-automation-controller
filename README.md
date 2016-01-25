@@ -15,6 +15,7 @@ Each command must assume the rigid (yet simple) grammar:
 
   Due to the recursive properties of the program, commands must be given from last to first commands, with the last always being 'end 0'.
   Ex.) for a 3-command operation,
+      
       end 0 <command 3> <time allocated for 3> <command 2> <time allocated for 2> <command 1> <time allocated for 1>
 
 Running the program
